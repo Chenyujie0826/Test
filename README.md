@@ -1,3 +1,3 @@
 # Test
 
-###### This is a C\C++ Test Public Store!
+This is a C\C++ Test Public Store!
